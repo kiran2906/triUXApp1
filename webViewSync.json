@@ -1,0 +1,6 @@
+{
+  "url" : "http://localhost:8001/tririga",
+  "userName" : "system",
+  "password" : "smarter",
+  "viewNames" : [ "tut-people" ]
+}
